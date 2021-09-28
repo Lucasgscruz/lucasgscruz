@@ -1,5 +1,6 @@
-### Hi there, I'm Lucas Cruz
+### Hi there! I'm Lucas Cruz
 
+##
 
 - 🔭 I’m currently working on optimization problems
 - 👯 I’m looking to collaborate on front/back-end open source projects
