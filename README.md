@@ -1,9 +1,9 @@
 ### Hi there, I'm Lucas Cruz
 
 
-- 🔭 I’m currently working on optimization problems.
+- 🔭 I’m currently working on optimization problems
 - 👯 I’m looking to collaborate on front/back-end open source projects
-- 🤔 I’m looking for help with web development.
+- 🤔 I’m looking for help with web development
 - 💬 Ask me about optimization, competittive programing, C++
 - 📫 How to reach me: lucasgscruz10@gmail.com
 
